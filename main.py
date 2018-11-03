@@ -1,6 +1,6 @@
 import numpy, pandas, pickle
 from os import path
-from sklearn import neighbors, preprocessing, model_selection
+from sklearn import neighbors, model_selection
 
 '''
     Description:
